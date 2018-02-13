@@ -1,10 +1,7 @@
 # Study Summary
 
-**Indigenous agricultural knowledge, climate resilience and food security in the Caribbean**
-
-In the rural mountain agricultural communities of Borikén (Puerto Rico) farmers and elders continue to draw from Indigenous (place-based, multigenerational, culturally-embedded) knowledge systems that have sustained their families for countless generations. Through a community-based, participatory climate research project we are working with youth, elders and farmers to better understand and maintain our island’s unique biocultural knowledge resources. To date, this project has documented how smallholder farmers in the communities of Cidra and Comerío continue to observe and adapt to environmental changes. With limited access to commercial inputs found on large scale farms, these community members draw from intergenerational knowledge of earth’s natural systems to enhance their food security. Indigenous agricultural knowledge, handed down each generation through field-based experiential practice, includes techniques for monitoring environmental conditions and phenological patterns, intercropping, crop rotation, and composting. These practices demonstrate opportunities for strengthening resilience to extreme precipitation events, drought and increasing resistance to disease . Rain-fed agriculture on these smallholder farms depends on constant observation of weather patterns. Collective oral histories of climate impacts and adaptation strategies coupled with agricultural extension program information resources may provide increased potential for climate resilience at local scales. When considering climate impacts, adaptation and resilience in the Caribbean, those members of the community maintaining the most intimate relationships with the land and earth’s natural systems remain some our greatest knowledge resources. This project works to ensure this knowledge is sustained for future generations of Caribbean youth. 
-
-This project is funded by the National Science Foundation Graduate Research Fellowship Program and the Center for Collaborative Conservation. This project is facilitated by Dominique M. Davíd-Chavez, PhD Candidate at Colorado State University Department Human Dimensions of Natural Resources under the advisement of Dr. Michael C. Gavin, in collaboration with Cidra and Comerío community members and the Naguake Community-School Survival Center educational programs.
+**[title]**
+[study summary]
 
 
 
